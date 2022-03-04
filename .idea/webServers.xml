@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8f2cfdc7-e2d7-49b4-a372-797df43d1e1a" name="ftp79.hostland.ru" url="http://ftp79.hostland.ru">
+        <fileTransfer rootFolder="/rizhiykun.site/htdocs/www" host="ftp79.hostland.ru" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
